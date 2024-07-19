@@ -1,0 +1,8 @@
+transformers==4.42.4
+more_itertools==10.3.0
+numpy==1.23.5
+datasets==2.14.7
+pandas==2.2.0
+scikit-learn==1.4.0
+torch==2.1.2
+tqdm==4.66.1
